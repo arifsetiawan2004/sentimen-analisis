@@ -79,4 +79,4 @@ else:
 st.markdown("---")
 with st.container():
     st.caption("Aplikasi ini menggunakan model SVM untuk analisis sentimen.")
-    st.caption("Dikembangkan dengan ❤️ oleh Saya.")
+    st.caption("Dikembangkan dengan ❤️ oleh Dosen, dikerjakan dengan mumet oleh saya.")
